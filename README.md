@@ -14,6 +14,9 @@
     <a href="https://github.com/SilvaTechN">
       <img src="https://img.shields.io/badge/GitHub-SilvaTechN-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
+    <a href="https://silvatech.co.ke">
+      <img src="https://img.shields.io/badge/Website-silvatech.co.ke-101010?style=for-the-badge&logo=googlechrome&logoColor=9CFF00" alt="Silva Tech website" />
+    </a>
     <img src="https://img.shields.io/badge/Status-Building-9CFF00?style=for-the-badge&labelColor=101010" alt="Status: Building" />
     <img src="https://img.shields.io/badge/Signal-Always%20Learning-9CFF00?style=for-the-badge&labelColor=101010" alt="Always learning" />
   </p>
@@ -51,6 +54,10 @@ actually use.
   <sub>My stack evolves with the problem. The goal is always the same: useful, maintainable work.</sub>
 </p>
 
+<p align="center">
+  <img src="./assets/programming-languages.svg" alt="Animated programming languages: TypeScript, JavaScript, Python, HTML and CSS, SQL, and Bash" width="900" />
+</p>
+
 ## `03` / LIVE ACTIVITY
 
 <!--
@@ -64,7 +71,27 @@ actually use.
   <img src="./assets/live-activity.svg" alt="Latest public GitHub activity" width="900" />
 </p>
 
-## `04` / BUILD PHILOSOPHY
+## `04` / LIVE NODES
+
+<div align="center">
+  <a href="https://silvatech.co.ke">
+    <img src="https://img.shields.io/badge/MAIN%20SITE-silvatech.co.ke-101010?style=for-the-badge&logo=googlechrome&logoColor=9CFF00" alt="Main site: silvatech.co.ke" />
+  </a>
+  <a href="https://silvatechs.com">
+    <img src="https://img.shields.io/badge/SECONDARY%20SITE-silvatechs.com-101010?style=for-the-badge&logo=googlechrome&logoColor=9CFF00" alt="Secondary site: silvatechs.com" />
+  </a>
+  <br />
+  <a href="https://host.silvatech.co.ke">
+    <img src="https://img.shields.io/badge/HOST%20PLATFORM-host.silvatech.co.ke-101010?style=for-the-badge&logo=serverfault&logoColor=9CFF00" alt="Host platform: host.silvatech.co.ke" />
+  </a>
+  <a href="https://host.silvatechs.com">
+    <img src="https://img.shields.io/badge/HOST%20PLATFORM-host.silvatechs.com-101010?style=for-the-badge&logo=serverfault&logoColor=9CFF00" alt="Host platform: host.silvatechs.com" />
+  </a>
+</div>
+
+<br />
+
+## `05` / BUILD PHILOSOPHY
 
 <table>
   <tr>
@@ -83,7 +110,7 @@ actually use.
   </tr>
 </table>
 
-## `05` / CONNECT
+## `06` / CONNECT
 
 Have an idea worth building, a useful problem to solve, or a project that
 could use another perspective? **Open an issue or start a conversation on
